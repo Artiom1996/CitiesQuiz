@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CitiesQuiz</string>
+    <string name="title_activity_maps">CitiesQuiz</string>
+    <string name="km_left">Kilometers left:</string>
+    <string name="correct_answers">Cities placed:</string>
+    <string name="select_location">Select the location of:</string>
+    <string name="game_is_over_text">Game is over! Your score is: </string>
+</resources>
